@@ -1,8 +1,8 @@
-# 24 README
+# 24
 
-## Working with Markdown
+## Do it today
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<https://today-63513.web.app/>
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
 * Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).

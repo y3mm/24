@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "keywords": [
+    "Theme Light",
+    "Theme Dark"
+  ],
   "categories": [
     "Themes"
   ],
@@ -37,5 +41,16 @@
         "path": "./themes/24-10-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "imgs/icon.png",
+  "author": {
+    "name": "Yemm",
+    "email": "yesdev19@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/y3mm/24",
+    "type": "git"
+  },
+  "publisher": "YesCode",
+  "license": "MIT"
 }

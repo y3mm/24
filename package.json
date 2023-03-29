@@ -39,6 +39,16 @@
         "label": "24.10",
         "uiTheme": "vs-dark",
         "path": "./themes/24-10-color-theme.json"
+      },
+      {
+        "label": "24.12",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24-12-color-theme.json"
+      },
+      {
+        "label": "24.2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24-2-color-theme.json"
       }
     ]
   },

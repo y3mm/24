@@ -1,8 +1,8 @@
 {
   "name": "24",
-  "displayName": "24",
+  "displayName": "Twenty Four 24",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.76.0"
   },

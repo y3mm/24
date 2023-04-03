@@ -2,7 +2,7 @@
   "name": "24",
   "displayName": "Twenty Four 24",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -26,6 +26,11 @@
         "path": "./themes/24-6-color-theme.json"
       },
       {
+        "label": "24.12",
+        "uiTheme": "vs",
+        "path": "./themes/24-1212-color-theme.json"
+      },
+      {
         "label": "24.3",
         "uiTheme": "vs-dark",
         "path": "./themes/24-3-color-theme.json"
@@ -41,7 +46,7 @@
         "path": "./themes/24-10-color-theme.json"
       },
       {
-        "label": "24.12",
+        "label": "24.24",
         "uiTheme": "vs-dark",
         "path": "./themes/24-12-color-theme.json"
       },
@@ -49,6 +54,11 @@
         "label": "24.2",
         "uiTheme": "vs-dark",
         "path": "./themes/24-2-color-theme.json"
+      },
+      {
+        "label": "24.0",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24-0-color-theme.json"
       }
     ]
   },

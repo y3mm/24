@@ -2,7 +2,7 @@
   "name": "24",
   "displayName": "A24",
   "description": "",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -19,6 +19,16 @@
         "label": "24",
         "uiTheme": "vs-dark",
         "path": "./themes/24-color-theme.json"
+      },
+      {
+        "label": "24 Sober",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24s-color-theme.json"
+      },
+      {
+        "label": "24 Sober S",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24-sober-s-color-theme.json"
       },
       {
         "label": "24.6",

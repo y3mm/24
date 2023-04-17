@@ -16,67 +16,67 @@
   "contributes": {
     "themes": [
       {
-        "label": "24",
+        "label": "A24",
         "uiTheme": "vs-dark",
         "path": "./themes/24-color-theme.json"
       },
       {
-        "label": "24 Sober",
+        "label": "A24 Sober",
         "uiTheme": "vs-dark",
         "path": "./themes/24s-color-theme.json"
       },
       {
-        "label": "24 Sober S",
+        "label": "A24 Sober S",
         "uiTheme": "vs-dark",
         "path": "./themes/24-sober-s-color-theme.json"
       },
       {
-        "label": "24.6",
+        "label": "A24.6",
         "uiTheme": "vs",
         "path": "./themes/24-6-color-theme.json"
       },
       {
-        "label": "24.12",
+        "label": "A24.12",
         "uiTheme": "vs",
         "path": "./themes/24-1212-color-theme.json"
       },
       {
-        "label": "24.10",
+        "label": "A24.10",
         "uiTheme": "vs",
         "path": "./themes/24-WB-color-theme.json"
       },
       {
-        "label": "24.3",
+        "label": "A24.3",
         "uiTheme": "vs-dark",
         "path": "./themes/24-3-color-theme.json"
       },
       {
-        "label": "24.7",
+        "label": "A24.7",
         "uiTheme": "vs-dark",
         "path": "./themes/24-7-color-theme.json"
       },
       {
-        "label": "24.22",
+        "label": "A24.22",
         "uiTheme": "vs-dark",
         "path": "./themes/24-10-color-theme.json"
       },
       {
-        "label": "24.24",
+        "label": "A24.24",
         "uiTheme": "vs-dark",
         "path": "./themes/24-12-color-theme.json"
       },
       {
-        "label": "24.2",
+        "label": "A24.2",
         "uiTheme": "vs-dark",
         "path": "./themes/24-2-color-theme.json"
       },
       {
-        "label": "24.0",
+        "label": "A24.0",
         "uiTheme": "vs-dark",
         "path": "./themes/24-0-color-theme.json"
       },
       {
-        "label": "24s",
+        "label": "A24s",
         "uiTheme": "vs-dark",
         "path": "./themes/24-s-color-theme.json"
       }

@@ -1,8 +1,8 @@
 {
-  "name": "a24",
+  "name": "24",
   "displayName": "A24",
   "description": "",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -26,9 +26,19 @@
         "path": "./themes/24s-color-theme.json"
       },
       {
+        "label": "A24 Sober Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24s-dark-color-theme.json"
+      },
+      {
         "label": "A24 Sober S",
         "uiTheme": "vs-dark",
         "path": "./themes/24-sober-s-color-theme.json"
+      },
+      {
+        "label": "A24 Sober S Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/24-sober-dark-color-theme.json"
       },
       {
         "label": "A24.6",

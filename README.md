@@ -6,7 +6,7 @@
 
 ![This is a image](https://github.com/y3mm/24/blob/main/imgs/a24-sober-dark.png?raw=true)
 
-![this is a image]()
+![this is a image](https://github.com/y3mm/24/blob/main/imgs/a241.png?raw=true)
 
 ![this is a image]()
 
